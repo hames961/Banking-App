@@ -2,7 +2,7 @@
 
 //Front-End, Back-End, Connecting Back-End to Front-End
 
-Objective= Create a dummy banking website to display all profiles,account details and transactions of users
+**Objective**= Create a dummy banking website to display all profiles,account details and transactions of users
 
 
 **How to do it**
