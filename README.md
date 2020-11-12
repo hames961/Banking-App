@@ -1,4 +1,4 @@
-# Banking-Statements
+# Banking-App
 Front-End, Back-End, Connecting Back-End to Front-End
 
 Test APIs to add, get, delete, edit data
